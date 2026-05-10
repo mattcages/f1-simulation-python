@@ -19,7 +19,7 @@ A Python-based simulation of the Formula 1 season, featuring drivers, teams, and
 2. Clone the repository:
 
 ```
-git clone https://github.com/SEU-USUARIO/f1-simulation-python.git
+git clone https://github.com/mattcages/f1-simulation-python.git
 ```
 
 3. Run the project:
